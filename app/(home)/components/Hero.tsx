@@ -36,7 +36,7 @@ function Hero() {
           }
         </p>
 
-        <div className="m-40 flex justify-center text-center">
+      {/* <div className="p-10 flex justify-center text-center">
           <HoverBorderGradient
             containerClassName="rounded-full"
             as="button"
@@ -45,14 +45,14 @@ function Hero() {
            
             <span>Aceternity UI</span>
           </HoverBorderGradient>
-        </div>
+        </div> */}
 
-        {/* <Link href={"mailto:manojlasantha306@gmail.com"}>
+        <Link href={"mailto:manojlasantha306@gmail.com"}>
                 <div className='text-[14px] lg:text-xl font-bold py-8'>
                     <h1 className='hover:text-blue-500 transition-all  hover:-rotate-1'>Contact Me 📬</h1>
                     
                 </div>
-            </Link> */}
+            </Link>
       </div>
       <div>
         <div className="w-full  py-2 px-4">
