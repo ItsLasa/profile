@@ -58,7 +58,7 @@ export const HoverEffect = ({
             <div className="py-10 z-50 relative space-y-5">
               
               <Icons className="w-8 h-8 mx-auto"/>
-              <p className="text-2xl font-bold text-center text-gray-300">{item.text}</p>
+              <p className="lg:text-2xl  font-bold text-center text-gray-300">{item.text}</p>
 
             </div>
 

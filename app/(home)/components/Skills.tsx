@@ -80,7 +80,7 @@ function Skills() {
       <HoverEffect items={FrontSkills}/>
 
       <div className="flex justify-center items-center mt-6">
-     <h2 className="text-blue-500 underline underline-offset-8 font-semibold text-2xl">Backend Development</h2>
+     <h2 className="text-blue-500 underline underline-offset-8 font-semibold text-2xl ">Backend Development</h2>
      </div>
      <HoverEffect items={BackendSkills}/>
     </div>
