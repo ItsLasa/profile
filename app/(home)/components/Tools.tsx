@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { BackgroundGradient } from "@/components/ui/background-gradient";
-import { IconAppWindow } from "@tabler/icons-react";
+
 import Image from "next/image";
 import Img1 from '@/public/22.jpg'
 import { SiNextdotjs } from "react-icons/si";
